@@ -4,17 +4,18 @@ sankate@sankate.com   +1-408-910-1479
 
 ## Summary
 
-Seasoned engineering leader with 20+ years of experience in building and managing distributed teams, developing and retaining top engineering talent, defining engineering processes to ensure quality standards are met and maintained, maintaining and optimizing budget, and execute the product lifecycle from concept to delivery.
+Seasoned engineering leader with 20+ years of experience of working in Silicon Valley for startups and fortune 500 companies. Expertise in building and managing distributed teams, developing and retaining top engineering talent, defining engineering processes to ensure quality standards, maintaining and optimizing budget, and executing the product lifecycle from concept to delivery.
 
 ## Experience
 
 #### Director of Engineering at WePay Inc. JPMorgan Chase company ( Feb 2015 - present ) - Redwood City, CA USA
 
 - Scaled the engineering team from 20 engineers to 120.
+- Managed seamless integration of WePay with Chase as a result of acquisition of WePay by JP Morgan Chase in Q4 2017.
+- Reduced interchange cost by migrating the USD processing from WorldPay to Chase without incurring any downtime. 
 - Refactored the engineering stack to handle 10X transaction volume by migrating to cloud and adopting service oriented architecture. 
 - Expanded the processor integrations to support processing of CAD and GBP.
 - Implemented automated pipelines to support daily reconcillation and near real time reporting.
-- Reduced interchange cost by migrating the USD processing from WorldPay to Chase without incurring any downtime. 
 - Defined engineering SAL / SLO's and priortization guidelines to make an efficient working model between engineering and product orgs.
 - Defined the company wide processes for design reviews, engineering pormotions and engineering career growth. 
 - Rolled out service mesh for robust management of micro services, CI / CD pipelines to achieve multiple releases per day, gatekeeper frameworks for doing blue green deployments and maintaining five 9's of uptime. 
