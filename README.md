@@ -33,18 +33,23 @@ Seasoned engineering leader with 20+ years of experience in building and managin
 #### Software Engineer ( 1997 - 2006 )
 
 - Nokia Inc - Mountain View, CA USA
+
   Worked on Centralized Network Services Manager to manage ISN elements like Flexi# ISN, GGSN and TA, etc. Responsible for developing server side components to manage charging, network access server etc.
 
 - Union Pacafic Railroad (ProKarma Inc.) - Omaha, NE USA
+  
   Built a bill of ladding and fright tracking web based application using the Railroad EDI specification to replace existing main frame system.
   
 - Patni Computer Systems - New York, NY USA
+  
   Worked on various projects for Honeywell, NY stock exchange, Pitney Bowes and lead an offshore development group located in New Delhi, India
   
 - Newgen Software - Cupertino, CA USA and New Delhi, India
+  
   Worked on projects for Sun Microsystems and a startup (Realcommunities Inc.) in USA. Implemented document managent system for Canon Inc. while in India.
   
 - Network Programs - Noida, India
+  
   Worked on a Video on demand implementation for Fujitsu 
 
 ## Education
