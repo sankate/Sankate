@@ -10,7 +10,8 @@ Seasoned engineering leader with 20+ years of experience of working in Silicon V
 
 #### Director of Engineering at WePay Inc. JPMorgan Chase company ( Feb 2015 - present ) - Redwood City, CA USA
 
-- Scaled the engineering team from 20 engineers to 120.
+- Responsible for running the entire SMB engineeing org deals with customer experiences, realtime reporting, pricing, billing, webhooks, emails, notifications, and reconciliation.
+- Scaled the engineering team from 20 engineers to ~200+.
 - Managed seamless integration of WePay with Chase as a result of acquisition of WePay by JP Morgan Chase in Q4 2017.
 - Reduced interchange cost by migrating the USD processing from WorldPay to Chase without incurring any downtime. 
 - Refactored the engineering stack to handle 10X transaction volume by migrating to cloud and adopting service oriented architecture. 
