@@ -1,6 +1,6 @@
 # Sankate Sharma
 
-sankate@sankate.com   +1-408-910-1479
+sankate @ sankate . com
 
 ## Summary
 
