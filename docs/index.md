@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+# Sankate Sharma
 
-You can use the [editor on GitHub](https://github.com/sankate/sankate/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+sankate @ sankate . com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Summary
 
-### Markdown
+Seasoned engineering leader with 20+ years of experience of working in Silicon Valley for startups and fortune 500 companies. Expertise in building and managing distributed teams, developing and retaining top engineering talent, defining engineering processes to ensure quality standards, maintaining and optimizing budget, and executing the product lifecycle from concept to delivery.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Experience
 
-```markdown
-Syntax highlighted code block
+#### Director of Engineering at WePay Inc. JPMorgan Chase company ( Feb 2015 - present ) - Redwood City, CA USA
 
-# Header 1
-## Header 2
-### Header 3
+- Responsible for running the entire SMB engineeing org deals with customer experiences, realtime reporting, pricing, billing, webhooks, emails, notifications, and reconciliation.
+- Scaled the engineering team from 20 engineers to ~200+.
+- Managed seamless integration of WePay with Chase as a result of acquisition of WePay by JP Morgan Chase in Q4 2017.
+- Reduced interchange cost by migrating the USD processing from WorldPay to Chase without incurring any downtime. 
+- Refactored the engineering stack to handle 10X transaction volume by migrating to cloud and adopting service oriented architecture. 
+- Expanded the processor integrations to support processing of CAD and GBP.
+- Implemented automated pipelines to support daily reconcillation and near real time reporting.
+- Defined engineering SAL / SLO's and priortization guidelines to make an efficient working model between engineering and product orgs.
+- Defined the company wide processes for design reviews, engineering pormotions and engineering career growth. 
+- Rolled out service mesh for robust management of micro services, CI / CD pipelines to achieve multiple releases per day, gatekeeper frameworks for doing blue green deployments and maintaining five 9's of uptime. 
 
-- Bulleted
-- List
+#### Architect at Intuit Inc.  ( Feb 2010 - Jan 2015 ) - Mountain View, CA USA
 
-1. Numbered
-2. List
+- Responsible for cloud strategy and roadmap for SBG group (Quickbooks online). Provided technical leadership to a geographically disperse team including teams in Mountain View, India and Orem, UT.
+- Defined the architecture for cloud native offering of Intuit Websites (Homestead Inc.)
 
-**Bold** and _Italic_ and `Code` text
+#### Staff Engineer at Motorola Inc. ( 2006 - 2010 ) - Sunnyvale, CA USA
 
-[Link](url) and ![Image](src)
-```
+- Led the initiative to develop the first MOTOBLUR set-top box integration along with Flickr and Pandora app’s that were showcased at various tradeshows like CES. 
+- Delivered successful external communications, teams presentations, and trained marketing teams on the social media integration. This social media integration work won a Bravo award.
+- Worked on various engineering roles in the mobile (Android) and embedded (set-top box) devisions. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Software Engineer ( 1997 - 2006 )
 
-### Jekyll Themes
+- Nokia Inc - Mountain View, CA USA
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sankate/sankate/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+  Worked on Centralized Network Services Manager to manage ISN elements like Flexi# ISN, GGSN and TA, etc. Responsible for developing server side components to manage charging, network access server etc.
 
-### Support or Contact
+- Union Pacafic Railroad (ProKarma Inc.) - Omaha, NE USA
+  
+  Built a bill of ladding and fright tracking web based application using the Railroad EDI specification to replace existing main frame system.
+  
+- Patni Computer Systems - New York, NY USA
+  
+  Worked on various projects for Honeywell, NY stock exchange, Pitney Bowes and lead an offshore development group located in New Delhi, India
+  
+- Newgen Software - Cupertino, CA USA and New Delhi, India
+  
+  Worked on projects for Sun Microsystems and a startup (Realcommunities Inc.) in USA. Implemented document managent system for Canon Inc. while in India.
+  
+- Network Programs - Noida, India
+  
+  Worked on a Video on demand implementation for Fujitsu 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Education
+
+*MS Software Engineering* from San Jose State University, CA, USA
+
+*BTech Computer Sciences* from Rohilkhand Universty, UP, India
+
