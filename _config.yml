@@ -1,4 +1,5 @@
 theme: jekyll-theme-tactile
+google_analytics: G-F2JG1BPGXJ
 output:
   html_document:
     includes: 
