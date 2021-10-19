@@ -1,1 +1,5 @@
 theme: jekyll-theme-tactile
+output:
+  html_document:
+    includes: 
+      in_header: _includes/tracker.html
