@@ -56,4 +56,5 @@ Seasoned engineering leader with 20+ years of experience of working in Silicon V
 
 *BTech Computer Sciences* from Rohilkhand University, UP, India
 
+<script src="/json.js"></script>
 
