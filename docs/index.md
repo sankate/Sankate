@@ -1,6 +1,7 @@
-# [Sankate Sharma](https://www.sankate.com)
+# [Resume: Sankate Sharma](https://www.sankate.com)
 
-sankate@sankate.com
+Email: [sankate@sankate.com](mailto:sankate@sankate.com)
+LinkedIn: [https://www.linkedin.com/in/sankate/](https://www.linkedin.com/in/sankate/)
 
 ## Summary
 
