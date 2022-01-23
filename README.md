@@ -10,16 +10,17 @@ Seasoned engineering leader with 20+ years of experience of working in Silicon V
 
 #### Director of Engineering at WePay Inc. JPMorgan Chase company ( Feb 2015 - present ) - Redwood City, CA USA
 
-- Responsible for running the entire SMB engineering org that deals with customer experiences, realtime reporting, pricing, billing, webhooks, emails, notifications, and reconciliation.
+- Responsible for running the entire Small business engineering (SMB) org that deals with customer experiences, realtime reporting, pricing, billing, webhooks, emails, notifications, and reconciliation.
 - Scaled the engineering team from 20 engineers to ~200+.
 - Managed seamless integration of WePay with Chase as a result of acquisition of WePay by JP Morgan Chase in Q4 2017.
+- Refactored the engineering stack to handle 10X transaction volume by migrating to cloud and adopting service oriented, Java micro services architecture.
+- Rolled out LinkedD based service mesh for robust management of micro services, CI / CD pipelines to achieve multiple releases per day, gatekeeper frameworks for doing blue green deployments and maintaining five 9's of uptime.
+- Expanded the processor integrations to support processing of different currencies like CAD and GBP.
 - Reduced interchange cost by migrating the USD processing from WorldPay to Chase without incurring any downtime.
-- Refactored the engineering stack to handle 10X transaction volume by migrating to cloud and adopting service oriented architecture.
-- Expanded the processor integrations to support processing of CAD and GBP.
-- Implemented automated pipelines to support daily reconciliation and near real time reporting.
+- Implemented automated data pipelines based on Google Data flow (Apache Beam) to support daily reconciliation and near real time reporting.
 - Defined engineering SAL / SLO's and prioritization guidelines to make an efficient working model between engineering and product orgs.
-- Defined the company wide processes for design reviews, engineering promotions and engineering career growth.
-- Rolled out service mesh for robust management of micro services, CI / CD pipelines to achieve multiple releases per day, gatekeeper frameworks for doing blue green deployments and maintaining five 9's of uptime.
+- Defined the company wide processes for [design reviews](https://wecode.wepay.com/posts/effective-software-design-documents), engineering promotions and engineering career growth.
+
 
 #### Architect at Intuit Inc.  ( Feb 2010 - Jan 2015 ) - Mountain View, CA USA
 
@@ -48,6 +49,10 @@ Seasoned engineering leader with 20+ years of experience of working in Silicon V
 
 
 - Network Programs - Noida, India: Worked on a Video on demand implementation for Fujitsu
+
+
+## Languages Tools, and Frameworks
+Java, Python, Spring, MySQL, Cassandra, Kafka, Docker, Kubernetes, Flutter
 
 
 ## Education
