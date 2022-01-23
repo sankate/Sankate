@@ -1,27 +1,28 @@
-# Sankate Sharma
+# [Sankate Sharma](https://www.sankate.com)
 
-sankate @ sankate . com
+sankate@sankate.com
 
 ## Summary
 
-Seasoned engineering leader with 20+ years of experience of working in Silicon Valley for startups and fortune 500 companies. Expertise in building and managing distributed teams, developing and retaining top engineering talent, defining engineering processes to ensure quality standards, maintaining and optimizing budget, and executing the product lifecycle from concept to delivery.
+Sankate Sharma is a seasoned engineering leader with 20+ years of experience of building scalable distributed systems. Expertise in building and managing distributed teams, developing and retaining top engineering talent, defining engineering processes to ensure quality standards, maintaining and optimizing budget, and executing the product lifecycle from concept to delivery.
 
 ## Experience
 
-#### Director of Engineering at WePay Inc. JPMorgan Chase company ( Feb 2015 - present ) - Redwood City, CA USA
+#### Director of Engineering at [WePay Inc.](https://www.wepay.com) JPMorgan Chase company ( Feb 2015 - present ) - Redwood City, CA USA
 
-- Responsible for running the entire SMB engineering org that deals with customer experiences, realtime reporting, pricing, billing, webhooks, emails, notifications, and reconciliation.
+- Responsible for running the entire Small business engineering (SMB) org that deals with customer experiences, realtime reporting, pricing, billing, webhooks, emails, notifications, and reconciliation.
 - Scaled the engineering team from 20 engineers to ~200+.
 - Managed seamless integration of WePay with Chase as a result of acquisition of WePay by JP Morgan Chase in Q4 2017.
+- Refactored the engineering stack to handle 10X transaction volume by migrating to cloud and adopting service oriented, Java micro services architecture.
+- Rolled out LinkedD based service mesh for robust management of micro services, CI / CD pipelines to achieve multiple releases per day, gatekeeper frameworks for doing blue green deployments and maintaining five 9's of uptime.
+- Expanded the processor integrations to support processing of different currencies like CAD and GBP.
 - Reduced interchange cost by migrating the USD processing from WorldPay to Chase without incurring any downtime.
-- Refactored the engineering stack to handle 10X transaction volume by migrating to cloud and adopting service oriented architecture.
-- Expanded the processor integrations to support processing of CAD and GBP.
-- Implemented automated pipelines to support daily reconciliation and near real time reporting.
+- Implemented automated data pipelines based on Google Data flow (Apache Beam) to support daily reconciliation and near real time reporting.
 - Defined engineering SAL / SLO's and prioritization guidelines to make an efficient working model between engineering and product orgs.
-- Defined the company wide processes for design reviews, engineering promotions and engineering career growth.
-- Rolled out service mesh for robust management of micro services, CI / CD pipelines to achieve multiple releases per day, gatekeeper frameworks for doing blue green deployments and maintaining five 9's of uptime.
+- Defined the company wide processes for [design reviews](https://wecode.wepay.com/posts/effective-software-design-documents), engineering promotions and engineering career growth.
 
-#### Architect at Intuit Inc.  ( Feb 2010 - Jan 2015 ) - Mountain View, CA USA
+
+#### Architect at [Intuit Inc.](https://www.intuit.com)  ( Feb 2010 - Jan 2015 ) - Mountain View, CA USA
 
 - Responsible for cloud strategy and roadmap for SBG group (Quickbooks online).
 - Provided technical leadership to a geographically dispersed team including teams in Mountain View, India and Orem, UT.
@@ -44,10 +45,14 @@ Seasoned engineering leader with 20+ years of experience of working in Silicon V
 - Patni Computer Systems - New York, NY USA : Worked on various projects for Honeywell, NY stock exchange, Pitney Bowes and lead an offshore development group located in New Delhi, India
 
 
-- Newgen Software - Cupertino, CA USA and New Delhi, India : Worked on projects for Sun Microsystems and a startup (Realcommunities Inc.) in the USA. Implemented document management system for Canon Inc. while in India.
+- Newgen Software - Cupertino, CA USA and New Delhi, India : Worked on projects for *Sun Microsystems* and a startup (Realcommunities Inc.) in the USA. Implemented document management system for Canon Inc.
 
 
 - Network Programs - Noida, India: Worked on a Video on demand implementation for Fujitsu
+
+
+## Languages Tools, and Frameworks
+Java, Python, Spring, MySQL, Cassandra, Kafka, Docker, Kubernetes, Flutter
 
 
 ## Education
@@ -55,5 +60,8 @@ Seasoned engineering leader with 20+ years of experience of working in Silicon V
 *MS Software Engineering* from San Jose State University, CA, USA
 
 *BTech Computer Sciences* from Rohilkhand University, UP, India
+
+
+### Built using GitHub Pages by [Sankate Sharma](https://www.sankate.com)
 
 
