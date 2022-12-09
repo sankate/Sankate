@@ -62,6 +62,9 @@ Java, Python, Spring, MySQL, Cassandra, Kafka, Docker, Kubernetes, Flutter
 
 *BTech Computer Sciences* from Rohilkhand University, UP, India
 
+## Patents
+*  Pre-built user interface for payment system and method [US11436601B2](https://patentimages.storage.googleapis.com/0a/e8/26/3fb216f81a4982/US11436601.pdf) · Issued Aug 17, 2022
+
 
 ### Built using GitHub Pages by [Sankate Sharma](https://www.sankate.com)
 
