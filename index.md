@@ -15,7 +15,7 @@ Sankate Sharma is a seasoned engineering leader with 20+ years of experience of 
 
 
 
-#### Director of Engineering at [WePay Inc.](https://www.wepay.com) JPMorgan Chase company ( Feb 2015 - present ) - Redwood City, CA USA
+#### Director of Engineering at [WePay Inc.](https://www.wepay.com) JPMorgan Chase company ( Feb 2015 - June 2022 ) - Redwood City, CA USA
 
 - Responsible for running the entire Small business engineering (SMB) org that deals with customer experiences, realtime reporting, pricing, billing, webhooks, emails, notifications, and reconciliation.
 - Scaled the engineering team from 20 engineers to ~200+.
